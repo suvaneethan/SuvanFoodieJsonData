@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Paneer Butter Masala",
+        "price": 250,
+        "quantity": 1,
+        "image": "https://example.com/images/paneer.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Margherita Pizza",
+        "price": 300,
+        "quantity": 2,
+        "image": "https://example.com/images/pizza.jpg"
+    }
+]

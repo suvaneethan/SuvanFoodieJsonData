@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Veggie Burger",
+        "description": "Healthy and tasty veggie burger",
+        "price": 150,
+        "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "name": "Cheese Burger",
+        "description": "Juicy cheese burger with fresh lettuce",
+        "price": 180,
+        "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=800&q=80",
+        "rating": 3.5
+    },
+    {
+        "id": 3,
+        "name": "Pasta",
+        "description": "Classic Italian pasta with tomato sauce",
+        "price": 200,
+        "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.5
+    },
+    {
+        "id": 4,
+        "name": "Spaghetti",
+        "description": "Delicious spaghetti with basil",
+        "price": 220,
+        "image": "https://images.unsplash.com/photo-1603133872877-0ee4b96738b7?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.7
+    },
+    {
+        "id": 5,
+        "name": "French Fries",
+        "description": "Crispy golden fries",
+        "price": 100,
+        "image": "https://images.unsplash.com/photo-1562967916-eb82221dfb4c?auto=format&fit=crop&w=800&q=80",
+        "rating": 2.5
+    },
+    {
+        "id": 6,
+        "name": "Veg Salad",
+        "description": "Fresh green salad with veggies",
+        "price": 120,
+        "image": "https://images.unsplash.com/photo-1604908177522-1c4b5a58b27c?auto=format&fit=crop&w=800&q=80",
+        "rating": 4.5
+    }
+]
